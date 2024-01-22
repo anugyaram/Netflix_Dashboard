@@ -7,7 +7,7 @@ Netflix, a global entertainment giant, boasts 158 million paid memberships acros
 This visualization project explores Netflix's expansive dataset, focusing on geographic distribution, temporal trends, and content popularity, unveiling insights into its unparalleled success and cultural impact since entering the streaming market in 2007.
 
 ## Data Source:
-The dataset used in this project is taken from Kaggle: click here
+The dataset used in this project is taken from Kaggle: [click here](https://www.kaggle.com/datasets/shivamb/netflix-shows?resource=download)
 
 ## Data Description:
 Our data universe comprises 12 columns, revealing the essence of movies and TV shows:
